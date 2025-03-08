@@ -3,13 +3,11 @@ import numpy as np
 
 epsilon_not = 8.85418e-12
 k = 1/(4*np.pi*epsilon_not)
-threshold = 2
 
 def E_Q(X, Y, q, pos):
     Rx = X - pos[0]
     Ry = Y - pos[1]
     norm = np.sqrt(Rx**2 + Ry**2)
-    #norm[norm < threshold] = threshold
     return k*q*(X - pos[0])/norm**3, k*q*(Y - pos[1])/norm**3
 
 def E(X, Y):
@@ -26,6 +24,8 @@ X, Y = np.meshgrid(x, y)
 U, V = E(X, Y)
 
 magnitude = np.sqrt(U**2 + V**2)
+U[U < magnitude] = np.nan
+
 U_norm = U / magnitude
 V_norm = V / magnitude
 
