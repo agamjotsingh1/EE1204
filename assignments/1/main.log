@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.4)  8 MAR 2025 21:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.4)  8 MAR 2025 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -998,7 +998,7 @@ dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/opt/texlive/2024/texmf-dist/fonts
 [3]
 
 [4]
-Overfull \hbox (4.5593pt too wide) in paragraph at lines 241--242
+Overfull \hbox (4.5593pt too wide) in paragraph at lines 243--244
 []\OT1/cmr/m/n/12 The forces act-ing on the mov-able sphere in-clude the elec-t
 ro-static force due to Coulomb's
  []
@@ -1011,7 +1011,7 @@ ro-static force due to Coulomb's
 <./q3/fig.png, id=52, 722.7pt x 505.89pt>
 File: ./q3/fig.png Graphic file (type png)
 <use ./q3/fig.png>
-Package pdftex.def Info: ./q3/fig.png  used on input line 309.
+Package pdftex.def Info: ./q3/fig.png  used on input line 311.
 (pdftex.def)             Requested size: 430.31812pt x 301.22055pt.
 
 
@@ -1029,7 +1029,7 @@ Package pdftex.def Info: ./q3/fig.png  used on input line 309.
 <./q5/a_fig.png, id=93, 462.528pt x 346.896pt>
 File: ./q5/a_fig.png Graphic file (type png)
 <use ./q5/a_fig.png>
-Package pdftex.def Info: ./q5/a_fig.png  used on input line 523.
+Package pdftex.def Info: ./q5/a_fig.png  used on input line 525.
 (pdftex.def)             Requested size: 226.48395pt x 169.86406pt.
 
 
@@ -1037,7 +1037,7 @@ Package pdftex.def Info: ./q5/a_fig.png  used on input line 523.
 <./q5/b_fig.png, id=102, 462.528pt x 346.896pt>
 File: ./q5/b_fig.png Graphic file (type png)
 <use ./q5/b_fig.png>
-Package pdftex.def Info: ./q5/b_fig.png  used on input line 536.
+Package pdftex.def Info: ./q5/b_fig.png  used on input line 538.
 (pdftex.def)             Requested size: 271.7835pt x 203.8464pt.
 
 
@@ -1047,7 +1047,7 @@ Package pdftex.def Info: ./q5/b_fig.png  used on input line 536.
 <./q6/a_fig.png, id=115, 433.62pt x 433.62pt>
 File: ./q6/a_fig.png Graphic file (type png)
 <use ./q6/a_fig.png>
-Package pdftex.def Info: ./q6/a_fig.png  used on input line 630.
+Package pdftex.def Info: ./q6/a_fig.png  used on input line 632.
 (pdftex.def)             Requested size: 226.48395pt x 226.48279pt.
 
 
@@ -1055,10 +1055,10 @@ Package pdftex.def Info: ./q6/a_fig.png  used on input line 630.
 <./q6/b_fig.png, id=122, 462.528pt x 346.896pt>
 File: ./q6/b_fig.png Graphic file (type png)
 <use ./q6/b_fig.png>
-Package pdftex.def Info: ./q6/b_fig.png  used on input line 651.
+Package pdftex.def Info: ./q6/b_fig.png  used on input line 653.
 (pdftex.def)             Requested size: 226.48395pt x 169.86406pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 689--694
+Underfull \hbox (badness 10000) in paragraph at lines 691--696
 
  []
 
@@ -1074,7 +1074,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 689--694
 <./q8/fig.png, id=154, 722.7pt x 433.62pt>
 File: ./q8/fig.png Graphic file (type png)
 <use ./q8/fig.png>
-Package pdftex.def Info: ./q8/fig.png  used on input line 819.
+Package pdftex.def Info: ./q8/fig.png  used on input line 821.
 (pdftex.def)             Requested size: 317.07614pt x 190.24422pt.
 
 
@@ -1113,7 +1113,7 @@ ts/type1/public/amsfonts/cm/cmmi12.pfb></opt/texlive/2024/texmf-dist/fonts/type
 s/cm/cmr12.pfb></opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 17.pfb></opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></
 opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on main.pdf (23 pages, 622982 bytes).
+Output written on main.pdf (23 pages, 623022 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  185 compressed objects within 2 object streams
