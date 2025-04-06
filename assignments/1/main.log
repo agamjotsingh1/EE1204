@@ -1169,26 +1169,30 @@ Package pdftex.def Info: ./q8/fig.png  used on input line 823.
 [21 <./q8/fig.png>]
 
 [22]
-\pydata@fh@_FAD58DE7366495DB4650CFEFAC2FCD61.data.minted=\write7
-\openout7 = `_FAD58DE7366495DB4650CFEFAC2FCD61.data.minted'.
+! Illegal parameter number in definition of \minted@tmp.
+<to be read again> 
+                   f
+l.914 ]{python}
+               
+? 
+! Emergency stop.
+<to be read again> 
+                   f
+l.914 ]{python}
+               
+End of file on the terminal!
 
-runsystem(latexminted config  --timestamp 20250308223921 FAD58DE7366495DB4650CF
-EFAC2FCD61)...executed.
-
- (./_FAD58DE7366495DB4650CFEFAC2FCD61.config.minted)
-runsystem(latexminted cleanconfig  --timestamp 20250308223921 FAD58DE7366495DB4
-650CFEFAC2FCD61)...executed.
-
-
-(./_minted/default.style.minted)
-(./_minted/8690F140BE22E9DF6C1EF795A7B4AB97.highlight.minted
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 2.
-
-
-[23]) (./_minted/9C652B624C2C01241F99659D5BFB1D0C.highlight.minted
-
-[24])
+ 
+Here is how much of TeX's memory you used:
+ 48498 strings out of 473201
+ 1120518 string characters out of 5692682
+ 1831828 words of memory out of 5000000
+ 71153 multiletter control sequences out of 15000+600000
+ 577204 words of font info for 99 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,13n,93p,659b,947s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
+4])
 \openout7 = `_FAD58DE7366495DB4650CFEFAC2FCD61.data.minted'.
 
 runsystem(latexminted highlight  --timestamp 20250308223921 FAD58DE7366495DB465
